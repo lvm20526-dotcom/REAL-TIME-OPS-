@@ -1,0 +1,4 @@
+Thư mục chứa thư viện riêng của project.
+Mỗi thư viện đặt trong một thư mục con, ví dụ: lib/MyButton/MyButton.h và lib/MyButton/MyButton.cpp.
+
+Thư viện bên ngoài (Adafruit SSD1306, Adafruit GFX) được khai báo trong platformio.ini (lib_deps), không cần đặt ở đây.

@@ -1,0 +1,4 @@
+Thư mục chứa các file header (.h) dùng chung cho project.
+PlatformIO tự thêm thư mục này vào include path khi build.
+
+Ví dụ khi tách code: include/pins.h chứa định nghĩa chân, include/tasks.h chứa khai báo các task.
